@@ -1,0 +1,17 @@
+{
+    "name": "bahaedd/quickmetrics",
+    "description": "Laravel package development",
+    "type": "metapackage",
+    "autoload": {
+        "psr-4": {
+            "Bahaedd\\Quickmetrics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bahaeddine",
+            "email": "sihassi.bahaeddine@gmail.com"
+        }
+    ],
+    "require": {}
+}
