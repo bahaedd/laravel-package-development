@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Bahaedd\\Quickmetrics\\' => array($baseDir . '/src'),
+    'Bahaedd\\QuickmetricsLaravel\\' => array($baseDir . '/src'),
 );
